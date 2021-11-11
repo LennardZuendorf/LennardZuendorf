@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I'm Lennard!
 
-<!--
-**LennardZuendorf/LennardZuendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I study Business Computing (Business and Computer Science) at HTW Berlin
+- 💻 currently, I'm only doing personal projects
+- ⛓️ current topic of interest: Blockchain & Web 3.0
 
-Here are some ideas to get you started:
+### My Tech Stack
+- Languages: HTML, CSS, JS (& Vue.js), Dart (& Flutter), Java, Kotlin
+- Tools & Tech: IntelliJ, TravisCI, Heroku, Google Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects I work on
+- ☁️ running Kotlin webservice on Google Cloud
+- 🔥 hosting Flutter apps with Firebase
+- 🏗️ mainting public projects and implementing new features
