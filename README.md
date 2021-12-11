@@ -12,3 +12,4 @@
 - ☁️ running Kotlin webservice on Google Cloud
 - 🔥 hosting Flutter apps with Firebase
 - 🏗️ mainting public projects and implementing new features
+- 🕸️building out my personal website
