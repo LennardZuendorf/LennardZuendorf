@@ -6,10 +6,10 @@
 
 ### My Tech Stack
 - Languages: HTML, CSS, JS (& Vue.js), Dart (& Flutter), Java, Kotlin
-- Tools & Tech: IntelliJ, TravisCI, Heroku, Google Cloud
+- Databases: PostgreSQL, Oracle SQL, Firestore
+- Tools & Tech: IntelliJ, TravisCI, CircleCI, Heroku, Google Cloud & Firebase
 
 ### Current Projects I work on
 - ☁️ running Kotlin webservice on Google Cloud
-- 🏗️ mainting public projects and implementing new features
 - 🕸️ building out my personal website
-- 📖 studying python, r and data science
+- 📖 studying python, c and enhancing kotlin skills
