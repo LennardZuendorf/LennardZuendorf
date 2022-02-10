@@ -4,10 +4,10 @@
 - 💻 currently, I'm only doing personal projects
 - ⛓️ current topics of interest: Blockchain, Web 3.0 and Crypto
 
-### My Tech Stack
-- Languages: HTML, CSS, JS (& Vue.js), Dart (& Flutter), Java, Kotlin
+### My Tech Stack - on different skill levels
+- Languages: HTML, CSS, JS (& Vue.js), , Java, Kotlin 
 - Databases: PostgreSQL, Oracle SQL, Firestore
-- Tools & Tech: IntelliJ, TravisCI, CircleCI, Heroku, Google Cloud & Firebase
+- Tools & Tech: IntelliJ, TravisCI, CircleCI, Heroku
 
 ### Current Projects I work on
 - ☁️ running Kotlin webservice on Google Cloud
