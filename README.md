@@ -11,5 +11,5 @@
 
 ### Current Projects I work on
 - ⤴️ updating/fixing my old projects
-- ☁️ running Kotlin and Node.js Webservice 
-- 📖 studying Python, C, Dart/Flutter and Kotlin
+- ☁️ running Java/Kotlin Webservices on Google Cloud
+- 📖 studying Python, C and Kotlin
