@@ -2,10 +2,10 @@
 
 - 🎓 I study Business Computing (Business and Computer Science) at HTW Berlin
 - 💻 currently, I'm studying at the University of Oslo in Norway and work on personal projects
-- ⛓️ big topics interest right now: Blockchain, Web 3.0 and App Development
+- ⛓️ big topics interest right now: Blockchain, App Development, Machine Learning
 
 ### My Tech Stack - on different skill levels
-- Languages: HTML, CSS, JS (& Vue.js), Java, Kotlin 
+- Languages: HTML, CSS, JS (& Vue.js), Java, Kotlin, Python
 - Database & Cloud: PostgreSQL, Oracle SQL, Firestore, Heroku
 - Tools & Tech: IntelliJ, Datagrip, Pycharm, CircleCI
 
