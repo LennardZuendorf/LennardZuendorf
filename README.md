@@ -13,3 +13,5 @@
 - ⤴️ updating/fixing my old projects
 - ☁️ running Webservices on Google Cloud
 - 📖 studying Python, Dart/Flutter and Kotlin
+
+#### Yes, all my projects have latin names. I know it's a little weird.
