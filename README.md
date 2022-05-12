@@ -5,13 +5,13 @@
 - ⛓️ big topics interest right now: Blockchain, App Development, Machine Learning
 
 ### My Tech Stack - on different skill levels
-- Languages: HTML, CSS, JS (& Vue.js), Java, Kotlin, Python
+- Languages: HTML, CSS, JS (& Vue.js), Java, Python
 - Database & Cloud: PostgreSQL, Oracle SQL, Firestore, Heroku
 - Tools & Tech: IntelliJ, Datagrip, Pycharm, CircleCI
 
 ### Current things I work on
 - ⤴️ updating/fixing my old projects
 - ☁️ running Webservices on Google Cloud
-- 📖 studying Python, Dart/Flutter and Kotlin
+- 📖 studying Dart/Flutter, React JS, Typescript
 
 #### Yes, all my projects have latin names. I know it's a little weird.
