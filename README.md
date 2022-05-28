@@ -5,7 +5,7 @@
 - ⛓️ big topics interest right now: Blockchain, App Development, Machine Learning
 
 ### My Tech Stack - on different skill levels
-- Languages: HTML, CSS, JS, Java, Python
+- Languages: JavaScript, Java, Python, HTML, CSS
 - Database & Cloud: PostgreSQL, Oracle SQL, Firestore, Heroku
 - Tools & Tech: IntelliJ, Datagrip, Pycharm, CircleCI
 
