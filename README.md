@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Lennard!
 
 - 🎓 I study Business Computing (Business and Computer Science) at HTW Berlin
-- 💻 currently, I'm studying at the University of Oslo in Norway and work on personal projects
-- ⛓️ big topics interest right now: Blockchain, App Development, Machine Learning
+- 💻 currently, I'm Intern at Hypoport's Insurace Product Strategy Team
+- ⛓️ big topics interest right now: App Development, Cloud
 
 ### My Tech Stack - on different skill levels
 - Languages: JavaScript, Java, Python, HTML, CSS
@@ -12,6 +12,6 @@
 ### Current things I work on
 - ⤴️ updating/fixing my old projects
 - ☁️ running Webservices on Google Cloud
-- 📖 studying Dart/Flutter, React, Typescript, Kotlin
+- 📖 studying Java- and Typescript, Kotlin, Python
 
 #### Yes, all my projects have latin names. I know it's a little weird.
