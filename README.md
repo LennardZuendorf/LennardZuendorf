@@ -6,12 +6,12 @@
 
 ### My Tech Stack - on different skill levels
 - Languages: JavaScript, Java, Python, HTML, CSS
-- Database & Cloud: PostgreSQL, Oracle SQL, Firestore, Heroku
+- Database & Cloud: SQL, Firestore, Firebase, Heroku
 - Tools & Tech: IntelliJ, Datagrip, Pycharm, CircleCI
 
 ### Current things I work on
 - ⤴️ updating/fixing my old projects
 - ☁️ running Webservices on Google Cloud
-- 📖 studying Java- and Typescript, Kotlin, Python
+- 📖 studying Java- and Typescript (React.js), Kotlin, Python
 
 #### Yes, all my projects have latin names. I know it's a little weird.
