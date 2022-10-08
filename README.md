@@ -2,7 +2,7 @@
 
 - 🎓 I study Business Computing (Business and Computer Science) at HTW Berlin
 - 💻 currently, I'm an intern at Hypoport's Insurance Product Strategy Team
-- :brain: big topics interest right now: App Development
+- :brain: my focus right now: updating and creating projects, learning new skills
 
 ### My Tech Stack - on different skill levels
 - Languages: JavaScript, Java, Python, HTML, CSS
@@ -10,8 +10,8 @@
 - Tools & Tech: IntelliJ, VSCode, Datagrip, CircleCI
 
 ### Current things I work on
-- ⤴️ creating two new personal projects
-- 📖 studying Javascript (React.js), Flutter and Kotlin
+- ⤴️ creating new personal projects
+- 📖 studying Javascript (React.js, Next.js), Flutter and Kotlin
 - :iphone: tech and dev for [twinkles](https://twinkles.rocks/)
 
 #### Yes, all my projects have latin names. I know it's a little weird.
