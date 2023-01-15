@@ -6,12 +6,10 @@
 
 ### My Tech Stack - on different skill levels
 - Languages: JavaScript, Java, Python, HTML, CSS
-- Database & Cloud: PostgreSQL, Firestore, Firebase, Supabase, Google Cloud Platform
-- Tools & Tech: IntelliJ, VSCode, Datagrip, CircleCI
+- Database & Cloud: PostgreSQL, Firestore, Firebase, Google Cloud Platform
+- Tools & Tech: IntelliJ, VSCode, Datagrip
 
 ### Current things I work on
 - ⤴️ creating new personal projects
 - 📖 studying Javascript (React.js, Next.js),Typescript, Flutter and Kotlin
-- :iphone: tech and dev for [twinkles](https://twinkles.rocks/)
-
-#### Yes, all my projects have latin names. I know it's a little weird.
+- :iphone: tech and development for [twinkles](https://twinkles.rocks/)
