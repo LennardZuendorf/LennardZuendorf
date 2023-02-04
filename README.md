@@ -11,5 +11,5 @@
 
 ### Current things I work on
 - ⤴️ creating new personal projects
-- 📖 studying Javascript (React.js, Next.js),Typescript, Flutter and Kotlin
+- 📖 studying Javascript (React.js, Next.js),Typescript and Kotlin
 - :iphone: tech and development for [twinkles](https://twinkles.rocks/)
