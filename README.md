@@ -7,9 +7,9 @@
 ### My Tech Stack - on different skill levels
 - Languages: JavaScript, Java, Python, HTML, CSS
 - Database & Cloud: PostgreSQL, Firestore, Firebase, Google Cloud Platform
-- Tools & Tech: IntelliJ, VSCode, Datagrip
+- Tools & Tech: IntelliJ, Webstorm, Datagrip,
 
 ### Current things I work on
-- ⤴️ creating new personal projects
-- 📖 studying Javascript (React.js), Java and Python
+- ⤴️ creating new personal projects in Javascript (React.js), Java and Python
+- 📖 preparing my bachelor thesis around explainable AI
 - :iphone: tech and development for [twinkles](https://twinkles.rocks/)
