@@ -16,19 +16,17 @@
 - 🛠️ new and old projects in **Java and Python**
 - 🎓 studying my **final semester** at [HTW Berlin](https://www.htw-berlin.de/en/)
 
-<h2 align="left"> 👨‍💻 Tech I'm learning right now </h2>
-
-- Cloud Infrastructure with ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-- Micro Services with ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=flat&logo=quarkus)
-- (more) Machine Learning with **Python** and about **Explainable AI**
-
 <h2 align="left"> 💻 my tech stack: </h2>
-<h3>my typical tech & stool stack</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![IntelliJ](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white)
 
+<h2 align="left"> 👨‍💻 Tech I'm learning right now </h2>
+
+- Cloud Infrastructure with ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+- Micro Services with ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=flat&logo=quarkus)
+- (more) Machine Learning with **Python** and about **Explainable AI**
 
 <h4>I also used before/mostly know my way around</h4>
 
