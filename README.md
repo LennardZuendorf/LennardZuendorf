@@ -4,7 +4,7 @@
 <h2 align="left"> 💫 about me: </h2>
 
 - 🎓 I study **Business Computing** in Berlin (until September)
-- 🏦 I previously worked in **FinTech and InsurTech** at [Hypoport](https://www.hypoport.de/) - 3 years in total, as a student/intern
+- 🏦 I worked in **FinTech and InsurTech** at [Hypoport](https://www.hypoport.de/) - 3 years in total, as a student/intern
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennard-zuendorf/)
 [![Mail](https://custom-icon-badges.demolab.com/badge/-lennard@zuendorf.me-grey?style=flat&logo=mention&logoColor=white)](mailto:lennard@zuendorf.me)
@@ -14,7 +14,7 @@
   
 - 🔭 my **Bachelor Thesis** about Explainable AI (Python, [Pynecone.io](https://pynecone.io/))
 - 🛠️ new and old projects in **Java and Python**
-- 🎓 studying my **final semester**
+- 🎓 studying my **final semester** at [HTW Berlin](https://www.htw-berlin.de/en/)
 
 <h2 align="left"> 👨‍💻 Tech I'm learning right now </h2>
 
