@@ -36,4 +36,14 @@
 
 <h2 align="left"> 📊 some Github stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=LennardZuendorf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=lennardzuendorf&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=lennardzuendorf&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=lennardzuendorf&show_icons=true" />
+</picture>
