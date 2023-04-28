@@ -10,9 +10,9 @@
 [![Mail](https://custom-icon-badges.demolab.com/badge/-lennard@zuendorf.me-grey?style=for-the-badge&logo=mention&logoColor=white)](mailto:lennard@zuendorf.me)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lordz.jun)
 
-<h2 align="left"> 🏗️ currently working on: </h2>
+<h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr)</a>: </h2>
   
-- 🔭 my **Bachelor Thesis** about Explainable AI (Python, [Pynecone.io](https://pynecone.io/))
+- 🔭 my **Bachelor Thesis** about Explainable AI application in **Pythong**
 - 🛠️ new and old projects in **Java and Python**
 - 🎓 studying my **final semester** at [HTW Berlin](https://www.htw-berlin.de/en/)
 
