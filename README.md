@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lennard</h1>
-<h3 align="center">Full time student and part time hobby dev. I build on projects from time to time, for uni, myself or some business ideas. I'm also a music geek, spending way to much time on Spotify.</h3>
+<h3 align="center">Full time student, part time hobby software engineer and product enthusiast.</h3>
+<h3 align="center">I build on projects from time to time, for uni, myself or some business ideas. I'm also a music geek, spending way to much time on Spotify.</h3>
 
 <h2 align="left"> 💫 about me: </h2>
 
