@@ -13,7 +13,7 @@
 
 <h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr)</a>: </h2>
   
-- 🔭 my **Bachelor Thesis** about Explainable AI application in **Pythong**
+- 🔭 building an **explainable BERT based model** for hate speech detection (my **Bachelor Thesis**), with **PyTorch**
 - 🛠️ new and old projects in **Java and Python**
 - 🎓 studying my **final semester** at [HTW Berlin](https://www.htw-berlin.de/en/)
 
@@ -27,7 +27,7 @@
 
 - Cloud Infrastructure with **AWS**
 - Micro Services with **Quarkus and Java**
-- (more) Machine Learning with **Python** and about **Explainable AI**
+- Machine Learning with **Python**
 
 <h4>I also used before/mostly know my way around</h4>
 
