@@ -7,9 +7,9 @@
 - 🎓 I study **Business Computing** in Berlin (until September)
 - 🏦 I worked in **FinTech and InsurTech** at [Hypoport](https://www.hypoport.de/) - 3 years in total, as a student/intern
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennard-zuendorf/)
-[![Mail](https://custom-icon-badges.demolab.com/badge/-lennard@zuendorf.me-grey?style=for-the-badge&logo=mention&logoColor=white)](mailto:lennard@zuendorf.me)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lordz.jun)
+[![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-white?style=for-the-badge&logo=web&logoColor=white)](https://www.zuendorf.me)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://hackerrank.com/lennardzuendorf)
 
 <h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr)</a>: </h2>
   
