@@ -8,6 +8,7 @@
 - 🏦 I worked in **FinTech and InsurTech** at [Hypoport](https://www.hypoport.de/) - 3 years in total, as a student/intern
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-white?style=for-the-badge&logo=web&logoColor=white)](https://www.zuendorf.me)
+[![Website](https://custom-icon-badges.demolab.com/badge/-ignitr.tech-black?style=for-the-badge&logo=web&logoColor=white)](https://www.ignitr.tech)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://hackerrank.com/lennardzuendorf)
 
