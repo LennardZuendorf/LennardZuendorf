@@ -12,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://hackerrank.com/lennardzuendorf)
 
-<h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr)</a>: </h2>
+<h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr</a>: </h2>
   
 - 🔭 building an **explainable BERT based model** for hate speech detection (my **Bachelor Thesis**), with **PyTorch**
 - 🛠️ new and old projects in **Java and Python**
