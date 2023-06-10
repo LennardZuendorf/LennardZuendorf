@@ -4,7 +4,7 @@
 
 <h2 align="left"> 💫 about me: </h2>
 
-- 🎓 I study **Business Computing** in Berlin (until September)
+- 🎓 I study **Business Computing** in Berlin (until March 2024)
 - 🏦 I worked in **FinTech and InsurTech** at [Hypoport](https://www.hypoport.de/) - 3 years in total, as a student/intern
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-white?style=for-the-badge&logo=web&logoColor=white)](https://www.zuendorf.me)
