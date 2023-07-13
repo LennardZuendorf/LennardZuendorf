@@ -14,8 +14,8 @@
 
 <h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr</a>):</h2>
   
-- 🔭 building an **explainable BERT based model** for hate speech detection (my **Bachelor Thesis**), with **PyTorch**
 - 🛠️ new and old projects in **Java and Python**
+- ⌨️ improving javascript skills and building project with **React, Next.js**
 - 🎓 studying at [HTW Berlin](https://www.htw-berlin.de/en/)
 
 <h2 align="left"> 💻 my tech stack: </h2>
