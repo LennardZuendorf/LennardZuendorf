@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Lennard</h1>
-<h3 align="center"> Full-time student, part-time software engineer, product manager, and overall product enthusiast.</h3>
+<h3 align="center"> Full-time student, Product Manager Backend at Check24, </h3>
 <h3 align="center">I build on projects from time to time for uni, myself, or some business ideas.</h3>
 
 <h2 align="left"> 💫 about me: </h2>
 
 - 🎓 I study **Business Computing** in Berlin (until March 2024)
-- 🏦 I worked in **FinTech and InsurTech** at [Hypoport](https://www.hypoport.de/) - for three years in total as a student/intern
+- 🏦 I work as a **Product Manager in Backend at Check24 (as a working student)
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-white?style=for-the-badge&logo=web&logoColor=white)](https://www.zuendorf.me)
 [![Website](https://custom-icon-badges.demolab.com/badge/-ignitr.tech-black?style=for-the-badge&logo=web&logoColor=white)](https://www.ignitr.tech)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://hackerrank.com/lennardzuendorf)
 
 <h2 align="left"> 🏗️ currently working on (check all my projects at <a href="https://ignitr.tech">ignitr</a>):</h2>
   
 - 🛠️ new and old projects in **Java and Python**
-- ⌨️ improving javascript skills and building project with **React, Next.js**
+- ⌨️ improving javascript skills and building projects with **React, Next.js**
 - 🎓 studying at [HTW Berlin](https://www.htw-berlin.de/en/)
 
 <h2 align="left"> 💻 my tech stack: </h2>
