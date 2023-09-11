@@ -5,7 +5,7 @@
 <h2 align="left"> 💫 about me: </h2>
 
 - 🎓 I study **Business Computing** in Berlin (until March 2024)
-- 🏦 I work as a **Product Manager in Backend at Check24 (as a working student)
+- 🏦 I work as a **Product Manager in Backend** at **Check24** (as a working student)
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-white?style=for-the-badge&logo=web&logoColor=white)](https://www.zuendorf.me)
 [![Website](https://custom-icon-badges.demolab.com/badge/-ignitr.tech-black?style=for-the-badge&logo=web&logoColor=white)](https://www.ignitr.tech)
