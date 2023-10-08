@@ -17,6 +17,11 @@
 - 🛠️ new and old projects in **Java, Java-/Typescript and Python**
 - ⌨️ improving Typescript skills and building projects with **React, Redwood.js and Next.js**
 
+## 👨‍💻 Tech I'm learning right now
+
+- Frontend Development with **React and Next.js**
+- Machine Learning with **Python** and **Huggingface**
+
 ## 📚 my tech stack:
 ### 💻 Languages, Frameworks & Technologies I use regularly
 
@@ -25,10 +30,7 @@
 ### ⚒️ tools I regularly use:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
-### 👨‍💻 Tech I'm learning right now
 
-- Frontend Development with **React and Next.js**
-- Machine Learning with **Python** and **Huggingface**
 
 ### ☝️ I also used before/mostly know my way around
 
