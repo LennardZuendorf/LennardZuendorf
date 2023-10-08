@@ -1,6 +1,5 @@
 # Hi 👋, I'm Lennard
-### Full-time Student and Product Manager Backend at Check24
-### I build on projects from time to time for uni, myself, or some business ideas.
+### Full-time Student and Product Manager Backend at Check24. I build on projects from time to time for uni, myself, or some business ideas.
 
 ## 💫 about me:
 
