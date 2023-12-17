@@ -7,7 +7,7 @@
 - 🏦 I work as a **Product Manager in Backend** at **Check24** (as a working student)
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-white?style=for-the-badge&logo=web&logoColor=white)](https://www.zuendorf.me)
-[![Website](https://custom-icon-badges.demolab.com/badge/-ignitr.tech-black?style=for-the-badge&logo=web&logoColor=white)](https://www.ignitr.tech)
+[![Website](https://custom-icon-badges.demolab.com/badge/-ignitr.tech-black?style=for-the-badge&logo=web&logoColor=white)](https://www.ignitr.zuendorf.me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
 
 ## 🏗️ currently working on
