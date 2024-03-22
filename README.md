@@ -1,23 +1,22 @@
 # Hi 👋, I'm Lennard
-**Full-time Student** and **Product Manager Backend** at Check24. I build on projects from time to time for uni, myself, or some business ideas.
+**Technical Product Manager** in the Backend-Team at [Check24 Flug](https://flug.check24.de). I build on projects from time to time for myself or some business ideas.
 
 ## 💫 about me:
 
-- 🎓 I study **Business Computing** in Berlin (until March 2024)
-- 🏦 I work as a **Technical Manager in** at **Check24** (as a working student)
+- 🏦 I work as a **Technical Manager** at **Check24**
+- 🎓 I studied **Business Computing** in Berlin
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-black?style=for-the-badge&logo=web&logoColor=black)](https://www.zuendorf.me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
 
 ## 🏗️ currently working on
 
-- 🎓 studying at [HTW Berlin](https://www.htw-berlin.de/en/)
-    - 🖋️ writing my thesis about Explainable AI using **Python, Pytorch, Gradio and Huggingface** 
-- 🏢 backend product management at [Check24 Flug](https://flug.check24.de/)
+- 🏢 Backend Product Management at [Check24 Flug](https://flug.check24.de/)
+  - 💻 PHP TechStack
 - 🛠️ new and old projects in **Java, Typescript and Python**
     - ⌨️ building projects with **React, Redwood.js and Next.js**
 
-### 👨‍💻 Tech I'm learning right now
+### 👨‍💻 Tech I'm learning/improving right now
 
 - Frontend Development with **React and Next.js**
 - Machine Learning with **Python** and **Huggingface**
