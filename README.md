@@ -1,9 +1,9 @@
 # Hi 👋, I'm Lennard
-**Technical Product Manager** in the Backend-Team at [Check24 Flug](https://flug.check24.de). I build on projects from time to time for myself or some business ideas.
+**Product Manager** in the Backend-Team at [Check24 Flug](https://flug.check24.de). I build on projects from time to time for myself or some business ideas.
 
 ## 💫 about me:
 
-- 🏦 I work as a **Technical Manager** at **Check24**
+- 🏦 I work as a **Product Manager** at **Check24**
 - 🎓 I studied **Business Computing** in Berlin
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-black?style=for-the-badge&logo=web&logoColor=black)](https://www.zuendorf.me)
