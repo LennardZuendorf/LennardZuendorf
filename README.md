@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lennard Zündorf
 
 > **TL;DR:**  
-> Senior Product Manager by trade. Solo builder and coder by habit.  
+> Product Manager by trade. Solo builder and coder by habit.  
 > I turn customer pain and business needs into real products, strategy, and systems that *work*.
 >
 > Currently building and leading at [Check24 Flug](https://flug.check24.de).
@@ -13,7 +13,7 @@
 
 ## About Me
 
-- **Product Manager (Booking & Payments)** at Check24 Flug  
+- **Product Manager** at [DIB TRAVEL](https://dibtravel.com/product-new/) in Stockholm, Sweden 🇸🇪 
 - Love to code, build, automate, and organize (with and without with AI)
 - and build Products using my technical and business skills and product sense
 
