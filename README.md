@@ -3,8 +3,6 @@
 > **TL;DR:**  
 > Product Manager by trade. Solo builder and coder by habit.  
 > I turn customer pain and business needs into real products, strategy, and systems that *work*.
->
-> Currently building and leading at [Check24 Flug](https://flug.check24.de).
 
 [![My Website](https://custom-icon-badges.demolab.com/badge/-zuendorf.me-black?style=for-the-badge&logo=web&logoColor=black)](https://www.zuendorf.me)
 [![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.zuendorf.me/linkd)
