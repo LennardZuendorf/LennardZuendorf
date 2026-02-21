@@ -11,7 +11,7 @@
 
 ## About Me
 
-- **Product Manager** at [DIB TRAVEL](https://dibtravel.com/product-new/) in Stockholm, Sweden 🇸🇪 
+- **Product Manager** at [DIB Travel](https://dibtravel.com/product-new/) in Stockholm, Sweden 🇸🇪 
 - Love to code, build, automate, and organize (with and without with AI)
 - and build Products using my technical and business skills and product sense
 
