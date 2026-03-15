@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lennard Zündorf
+# 👋 Hi, I’m Lennard!
 
 > **TL;DR:**  
 > Product Manager by trade. Solo builder and coder by habit.  
