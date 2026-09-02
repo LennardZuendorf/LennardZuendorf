@@ -1,0 +1,24 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PRD-0001 · v2.0 · Owner: Lennard Zündorf — Product Manager by trade. Solo builder and coder by habit.">
+  <title>Lennard Zündorf — PRD-0001</title>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- eyebrow -->
+  <text x="48" y="51" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#8b949e">PRD-0001&#160;&#160;&#183;&#160;&#160;v2.0&#160;&#160;&#183;&#160;&#160;OWNER: LENNARD Z&#220;NDORF</text>
+
+  <!-- title -->
+  <text x="48" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e6edf3">Lennard Z&#252;ndorf</text>
+
+  <!-- subtitle -->
+  <text x="48" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#8b949e">Product Manager by trade. Solo builder and coder by habit.</text>
+
+  <!-- pills, top-right -->
+  <rect x="840" y="32" width="130" height="28" rx="14" fill="none" stroke="#8b949e" stroke-width="1"/>
+  <text x="905" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">STOCKHOLM, SE</text>
+
+  <rect x="982" y="32" width="170" height="28" rx="14" fill="#238636"/>
+  <text x="1067" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#ffffff">&#9679; STATUS: SHIPPED</text>
+
+  <!-- bottom-right footer -->
+  <line x1="850" y1="196" x2="1152" y2="196" stroke="#30363d" stroke-width="1"/>
+  <text x="1152" y="214" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">spec.md&#160;&#160;&#8212;&#160;&#160;last reviewed 2026-09</text>
+</svg>
